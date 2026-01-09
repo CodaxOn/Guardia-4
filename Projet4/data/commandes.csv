@@ -1,0 +1,4 @@
+id_order,user,total,status,date,id_prod,nom_prod,sn
+ORD-5393,admin,230€,Payé,2026-01-09 16:21,6,Machine à lavée,SN-2389-3483
+ORD-2431,admin,100000€,Payé,2026-01-09 16:26,5,Maison 2m²,SN-9827-2333
+ORD-5185,yacine,15€,Payé,2026-01-09 17:25,7,Ballon,SN-3960-7210

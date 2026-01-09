@@ -1,0 +1,202 @@
+timestamp,user,action
+2026-01-08 14:39:18,admin,AUDIT: Échec de connexion (Tentative)
+2026-01-08 14:39:37,admin,AUDIT: Création de compte
+2026-01-08 14:39:38,admin,AUDIT: Connexion réussie
+2026-01-08 14:40:25,admin,AUDIT: Connexion réussie
+2026-01-08 14:41:04,admin,AUDIT: Déconnexion
+2026-01-08 14:43:24,admin,AUDIT: Connexion réussie
+2026-01-08 14:43:27,admin,AUDIT: Déconnexion
+2026-01-08 14:44:03,admin,AUDIT: Connexion réussie
+2026-01-08 14:44:06,admin,AUDIT: Déconnexion
+2026-01-08 14:44:15,  ,AUDIT: Échec de connexion (Tentative)
+2026-01-08 14:45:32, ,AUDIT: Création de compte
+2026-01-08 14:45:34,,AUDIT: Connexion réussie
+2026-01-08 14:49:19,3333333,AUDIT: Création de compte
+2026-01-08 14:49:20,3333333,AUDIT: Échec de connexion
+2026-01-08 14:49:22,3333333,AUDIT: Échec de connexion
+2026-01-08 14:50:07,test,AUDIT: Création de compte
+2026-01-08 14:50:08,test,AUDIT: Connexion réussie
+2026-01-08 14:54:02,3333333,AUDIT: Création de compte
+2026-01-08 14:54:04,3333333,AUDIT: Connexion réussie
+2026-01-08 14:56:25,admin,AUDIT: Connexion réussie
+2026-01-08 14:56:43,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-08 14:57:14,admin,AUDIT: Produit ID 3 modifié
+2026-01-08 14:57:45,admin,AUDIT: Déconnexion
+2026-01-08 16:19:03,admin,AUDIT: Connexion réussie
+2026-01-08 16:20:08,admin,AUDIT: Nouveau produit créé (SN-5898-2704)
+2026-01-08 16:20:59,admin,AUDIT: Achat pull blanc (ID:4 / SN:SN-5898-2704)
+2026-01-08 16:24:01,adminn,AUDIT: Création de compte
+2026-01-08 16:27:43,admin,AUDIT: Connexion réussie
+2026-01-08 16:35:36,admin,AUDIT: Connexion réussie
+2026-01-08 17:18:28,Admin,DECONNEXION
+2026-01-08 17:44:05,admin,AUDIT: Connexion réussie
+2026-01-08 17:45:10,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-08 17:45:33,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-08 17:45:33,admin,AUDIT: Achat Pull noir (ID:2 / SN:SN-3167-6113)
+2026-01-08 17:45:33,admin,AUDIT: Achat Ballon de foot (ID:3 / SN:SN-8543-1768)
+2026-01-08 17:49:39,admin,AUDIT: Nouveau produit créé (SN-9827-2333)
+2026-01-08 17:49:51,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-08 17:51:04,admin,AUDIT: Produit ID 5 modifié
+2026-01-08 17:53:26,admin,AUDIT: Connexion réussie
+2026-01-08 17:53:55,admin,AUDIT: Connexion réussie
+2026-01-08 17:54:12,admin,AUDIT: Produit ID 5 modifié
+2026-01-08 17:55:01,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-08 17:55:01,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-08 17:55:47,admin,AUDIT: Achat pull blanc (ID:4 / SN:SN-5898-2704)
+2026-01-08 17:55:47,admin,AUDIT: Achat Ballon de foot (ID:3 / SN:SN-8543-1768)
+2026-01-08 17:57:31,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-08 17:57:31,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-08 18:08:01,admin,AUDIT: Connexion réussie
+2026-01-08 19:30:45,admin,AUDIT: Connexion réussie
+2026-01-08 22:02:00,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:03,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:05,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:07,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:08,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:09,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:11,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:12,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:14,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:15,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:17,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:19,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:21,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:27,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:33,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:42,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:44,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:46,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:47,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:48,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:49,admin,AUDIT: Échec de connexion
+2026-01-08 22:02:51,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:42,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:43,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:44,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:46,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:47,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:48,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:49,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:50,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:52,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:53,admin,AUDIT: Échec de connexion
+2026-01-08 22:03:54,admin,AUDIT: Échec de connexion
+2026-01-08 22:05:10,admin,AUDIT: Connexion réussie
+2026-01-08 22:17:58,admin,AUDIT: Connexion réussie
+2026-01-08 23:07:17,admin,AUDIT: Connexion réussie
+2026-01-09 14:41:23,Shems,AUDIT: Création de compte
+2026-01-09 14:41:25,shems,AUDIT: Connexion réussie
+2026-01-09 14:41:56,shems,AUDIT: Déconnexion
+2026-01-09 14:42:18,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:25,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:29,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:32,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:33,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:36,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:36,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:37,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:37,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:37,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:38,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:38,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:38,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:40,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:40,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:40,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:41,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:41,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:41,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:42,Shems,AUDIT: Échec de connexion
+2026-01-09 14:42:46,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:06,shems,AUDIT: Connexion réussie
+2026-01-09 14:43:17,shems,AUDIT: Déconnexion
+2026-01-09 14:43:29,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:33,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:37,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:37,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:37,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:38,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:38,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:38,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:39,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:40,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:40,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:40,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:41,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:41,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:41,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:42,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:42,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:42,Shems,AUDIT: Échec de connexion
+2026-01-09 14:43:42,Shems,AUDIT: Échec de connexion
+2026-01-09 14:54:44,Shems,AUDIT: Échec de connexion
+2026-01-09 14:54:47,Shems,AUDIT: Échec de connexion
+2026-01-09 14:54:48,Shems,AUDIT: Compte bloqué après plusieurs échecs
+2026-01-09 15:19:59,Shems,AUDIT: Échec de connexion
+2026-01-09 15:20:03,Shems,AUDIT: Échec de connexion
+2026-01-09 15:20:05,Shems,AUDIT: Compte bloqué après plusieurs échecs
+2026-01-09 15:42:24,admin,AUDIT: Connexion réussie
+2026-01-09 15:43:51,admin,AUDIT: Déconnexion
+2026-01-09 15:47:48,admin,AUDIT: Échec de connexion
+2026-01-09 15:47:51,admin,AUDIT: Échec de connexion
+2026-01-09 15:47:53,admin,AUDIT: Compte bloqué après plusieurs échecs
+2026-01-09 15:49:58,admin,AUDIT: Connexion réussie
+2026-01-09 15:50:54,admin,AUDIT: Nouveau produit créé (SN-2389-3483)
+2026-01-09 15:51:02,admin,AUDIT: Produit ID 6 modifié
+2026-01-09 15:51:48,admin,AUDIT: Échec de connexion
+2026-01-09 15:51:56,admin,AUDIT: Connexion réussie
+2026-01-09 15:55:02,admin,AUDIT: Échec de connexion
+2026-01-09 15:55:05,admin,AUDIT: Connexion réussie
+2026-01-09 15:55:31,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 15:55:31,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-09 15:55:31,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-09 15:55:31,admin,AUDIT: Achat Pull noir (ID:2 / SN:SN-3167-6113)
+2026-01-09 15:59:00,admin,AUDIT: Connexion réussie
+2026-01-09 15:59:28,admin,AUDIT: Connexion réussie
+2026-01-09 15:59:38,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 15:59:38,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-09 16:00:09,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 16:00:09,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-09 16:02:34,admin,AUDIT: Déconnexion
+2026-01-09 16:02:43,admin,AUDIT: Connexion réussie
+2026-01-09 16:04:49,admin,AUDIT: Connexion réussie
+2026-01-09 16:05:49,adminn,AUDIT: Création de compte
+2026-01-09 16:09:17,admin,AUDIT: Échec de connexion
+2026-01-09 16:09:20,admin,AUDIT: Connexion réussie
+2026-01-09 16:09:30,admin,AUDIT: Déconnexion
+2026-01-09 16:14:42,admin,AUDIT: Connexion réussie
+2026-01-09 16:14:57,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 16:15:28,admin,AUDIT: Connexion réussie
+2026-01-09 16:16:22,admin,AUDIT: Connexion réussie
+2026-01-09 16:16:30,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 16:17:00,admin,AUDIT: Connexion réussie
+2026-01-09 16:17:06,admin,AUDIT: Achat Asus Laptop (ID:1 / SN:SN-2595-2730)
+2026-01-09 16:21:03,admin,AUDIT: Échec de connexion
+2026-01-09 16:21:05,admin,AUDIT: Connexion réussie
+2026-01-09 16:21:12,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 16:23:05,admin,AUDIT: Connexion réussie
+2026-01-09 16:23:13,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 16:23:39,admin,AUDIT: Connexion réussie
+2026-01-09 16:23:44,admin,AUDIT: Achat Machine à lavée (ID:6 / SN:SN-2389-3483)
+2026-01-09 16:25:10,admin,AUDIT: Échec de connexion
+2026-01-09 16:25:12,admin,AUDIT: Échec de connexion
+2026-01-09 16:25:21,admin,AUDIT: Connexion réussie
+2026-01-09 16:25:43,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-09 16:26:33,admin,AUDIT: Échec de connexion
+2026-01-09 16:26:39,admin,AUDIT: Connexion réussie
+2026-01-09 16:26:49,admin,AUDIT: Achat Maison 2m² (ID:5 / SN:SN-9827-2333)
+2026-01-09 16:27:42,admin,AUDIT: Échec de connexion
+2026-01-09 16:27:50,admin,AUDIT: Connexion réussie
+2026-01-09 16:42:14,admin,AUDIT: Connexion réussie
+2026-01-09 17:24:14,yacine,AUDIT: Création de compte
+2026-01-09 17:24:16,yacine,AUDIT: Connexion réussie
+2026-01-09 17:25:59,yacine,AUDIT: Achat Ballon (ID:7 / SN:SN-3960-7210)
+2026-01-09 17:26:57,yacine,AUDIT: Échec de connexion
+2026-01-09 17:27:00,yacine,AUDIT: Échec de connexion
+2026-01-09 17:27:01,yacine,AUDIT: Échec de connexion

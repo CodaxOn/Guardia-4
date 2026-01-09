@@ -1,0 +1,17 @@
+QMainWindow, QDialog { background-color: #f8fafc; font-family: 'Segoe UI', sans-serif; }
+QTabWidget::pane { border: none; background-color: white; }
+QTabBar::tab {
+    background: #e2e8f0; color: #475569; padding: 12px 35px;
+    font-weight: 600; border-top-left-radius: 10px; border-top-right-radius: 10px; margin-right: 4px;
+}
+QTabBar::tab:selected { background: #ffffff; color: #3b82f6; border-bottom: 3px solid #3b82f6; }
+QTableWidget { background-color: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0; }
+QHeaderView::section { background-color: #f1f5f9; color: #64748b; padding: 12px; font-weight: bold; border: none; }
+QFrame#ProductCard { background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; }
+QFrame#SidebarProfile { background-color: #1e293b; border-radius: 16px; color: white; padding: 20px; }
+QFrame#SidebarProfile QLabel { color: white; }
+QPushButton { background-color: #3b82f6; color: white; border-radius: 8px; padding: 8px 15px; font-weight: 600; border: none; }
+QPushButton:hover { background-color: #2563eb; }
+QPushButton#BtnDelete { background-color: #ef4444; }
+QPushButton#BtnLogout { background-color: #64748b; }
+QLineEdit, QComboBox { background-color: white; padding: 10px; border: 1px solid #e2e8f0; border-radius: 6px; }
